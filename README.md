@@ -28,13 +28,12 @@
 Simply click the link below and Raycast will automatically import the theme:
 
 
-[**Click here to install the Tokyo Night Storm theme →**](https://ray.so/themes?version=1&name=Tokyo%20Night%20Storm&author=flight505&authorUsername=flight505&appearance=dark&colors=%2324283b%2C%231f2335%2C%233b4261%2C%233b4261%2C%239d7cd8%2C%237aa2f7%2C%2337a2f7%2C%2341a6b5%2C%237aa2f7%2C%239ece6a%2C%239ece6a%2C%23e0af68%2C%23f7768e%2C%23f7768e%2C%23bb9af7%2C%23c0caf5%2C%237dcfff%2C%23bb9af7%2C%233b4261%2C%237dcfff%2C%23449dab%2C%23787c99&authorUrl=https://github.com/flight505)
+[**Click here to install the Tokyo Night Storm theme →**](https://themes.ray.so?version=1&name=Tokyo%20Night%20Storm&author=Flight505&authorUsername=flight505&colors=%2324283B,%230C0E14,%23C0CAF5,%237AA2F7,%233D59A1,%23F7768E,%23FF9E64,%23E0AF68,%239ECE6A,%237AA2F7,%239D7CD8,%23BB9AF7&appearance=dark&addToRaycast=https://github.com/flight505)
 
 Or copy and paste it into your browser: 
 
 ```
-https://ray.so/themes?version=1&name=Tokyo%20Night%20Storm&author=Flight505&authorUsername=flight505&appearance=dark&colors=%2324283b%2C%231f2335%2C%23c0caf5%2C%2333467c%2C%237aa2f7%2C%23f7768e%2C%23ff9e64%2C%23e0af68%2C%239ece6a%2C%237aa2f7%2C%239d7cd8%2C%23bb9af7&addToRaycast
-
+https://themes.ray.so?version=1&name=Tokyo%20Night%20Storm&author=Flight505&authorUsername=flight505&colors=%2324283B,%230C0E14,%23C0CAF5,%237AA2F7,%233D59A1,%23F7768E,%23FF9E64,%23E0AF68,%239ECE6A,%237AA2F7,%239D7CD8,%23BB9AF7&appearance=dark&addToRaycast
 ```
 
 ### Manual Installation
