@@ -6,9 +6,9 @@
   "authorUsername": "Flight505",
   "colors": {
     "background": "#24283b",
-    "backgroundSecondary": "#1f2335",
+    "backgroundSecondary": "#0C0E14",
     "text": "#c0caf5",
-    "selection": "#33467c",
+    "selection": "#7AA2F7",
     "loader": "#7aa2f7",
     "red": "#f7768e",
     "orange": "#ff9e64",
